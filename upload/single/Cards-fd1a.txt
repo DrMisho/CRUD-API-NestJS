@@ -1,0 +1,5 @@
+white
+Card UID: BD DA AE 4D
+
+blue
+Card UID: 29 7A CB 5A
